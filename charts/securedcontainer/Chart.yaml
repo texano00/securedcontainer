@@ -1,0 +1,17 @@
+apiVersion: v2
+name: securedcontainer
+description: A Helm chart for SecuredContainer - Kubernetes Operator for Container Security
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - security
+  - container
+  - vulnerability
+  - scanning
+home: https://github.com/texano00/securedcontainer
+sources:
+  - https://github.com/texano00/securedcontainer
+maintainers:
+  - name: texano00
+    url: https://github.com/texano00
